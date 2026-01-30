@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 💼 I build cool things | 💻 I love coding | 📚 Learning every day
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-instagram)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-kashyap-vl/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kartistik.k/)
 
 
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 ``` :contentReference[oaicite:4]{index=4}
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kartik-Kashyap&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=blueberry)]()
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=discord)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kartik-Kashyap&theme=blueberry)]()
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Kartik-Kashyap&theme=discord)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-Kashyap&layout=compact&theme=radical)
 
