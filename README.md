@@ -115,19 +115,6 @@ Linux · Git · IoT · Node.js · MySQL · Obsidian
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kartik-Kashyap&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik-Kashyap&theme=blueberry" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-Kashyap&layout=compact&theme=radical" />
-</p>
 
 ---
 
@@ -140,7 +127,8 @@ Linux · Git · IoT · Node.js · MySQL · Obsidian
 
 If you’re working on:
 - AI + law / policy  
-- forensic or investigative systems  
+- forensic or investigative systems
+- psychology, sociology, or anything related to human behavior
 - human-centered AI  
 - serious simulations & educational tech  
 
