@@ -37,6 +37,23 @@ and how we can design systems that are **ethical, explainable, and usable in the
 
 ---
 
+## 🔬 Research Interests
+
+I’m deeply interested in exploring how **technology interacts with human cognition, institutions, and society**, especially in high-stakes domains like law, security, and governance.
+
+**Primary interests include:**
+- Explainable & accountable AI for **forensics, investigations, and courts**
+- Algorithmic bias, polarization & decision-making in socio-technical systems
+- Crime analytics, GIS-based criminology & public safety data systems
+- Human-centered evidence management & chain-of-custody architectures
+- Educational simulations for complex human systems (law, psychology, society)
+- AI interfaces for reasoning, not just prediction
+
+**Long-term goal:**  
+To build systems that help humans *reason better*, not just *decide faster*.
+
+---
+
 ## 🧪 Flagship Work & Research Repositories
 
 ### 🧠⚖️ Forensics, Criminology & Human-Centered Tech Lab
@@ -108,6 +125,42 @@ NCRB Data · QGIS · Pandas · NumPy · Matplotlib · Dash · Manim
 
 Linux · Git · IoT · Node.js · MySQL · Obsidian
 
+---
+
+## 💻 Tech Stack
+
+### 🧑‍💻 Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+
+### 🤖 AI / ML / Data
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🗺️ GIS & Visualization
+![QGIS](https://img.shields.io/badge/QGIS-3.28-green?style=for-the-badge&logo=qgis)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%230C4B33.svg?style=for-the-badge)
+![Manim](https://img.shields.io/badge/Manim-black?style=for-the-badge)
+
+### 🔐 Security & Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cryptography](https://img.shields.io/badge/Cryptography-444?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-%2300599C.svg?style=for-the-badge)
+
+### 🌐 Web & Tooling
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
+
+
 
 ---
 
@@ -115,6 +168,8 @@ Linux · Git · IoT · Node.js · MySQL · Obsidian
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
+[![](https://visitcount.itsvg.in/api?id=Kartik-Kashyap&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ---
 
