@@ -23,7 +23,7 @@ I build <b>research-driven systems</b> where <b>code meets courts</b>,
 
 ---
 
-## 🧠 What I Work On
+## What I Work On
 
 I explore how **technology shapes human behavior, justice systems, and society** —  
 and how we can design systems that are **ethical, explainable, and usable in the real world**.
@@ -37,7 +37,7 @@ and how we can design systems that are **ethical, explainable, and usable in the
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 I’m deeply interested in exploring how **technology interacts with human cognition, institutions, and society**, especially in high-stakes domains like law, security, and governance.
 
@@ -54,23 +54,23 @@ To build systems that help humans *reason better*, not just *decide faster*.
 
 ---
 
-## 🧪 Flagship Work & Research Repositories
+## Flagship Work & Research Repositories
 
-### 🧠⚖️ Forensics, Criminology & Human-Centered Tech Lab
+### Forensics, Criminology & Human-Centered Tech Lab
 🔗 https://github.com/Kartik-Kashyap/forensics-criminology-tech-lab
 
 **What lives here:**
-- 🧾 Chain-of-custody & evidence integrity simulations  
-- 🧠 AI-assisted forensic reasoning & bias detection  
-- 🗺️ QGIS-based crime mapping & NCRB analytics (10k+ datapoints) 
-- 🤖 Local LLMs for explainable forensic narratives  
-- 📊 Investigator vs public-facing dashboards  
+- Chain-of-custody & evidence integrity simulations  
+- AI-assisted forensic reasoning & bias detection  
+- QGIS-based crime mapping & NCRB analytics (10k+ datapoints) 
+- Local LLMs for explainable forensic narratives  
+- Investigator vs public-facing dashboards  
 
 > Focus: *Court-admissible, ethical, explainable systems — not black-box AI.*
 
 ---
 
-### 🌏 SAARC Internship – AI & Digital Citizenship
+### SAARC Internship – AI & Digital Citizenship
 🔗 https://github.com/Kartik-Kashyap/SAARC-internship-research-work
 
 **Systems built during internship at SAARC Secretariat (Kathmandu):**
@@ -79,12 +79,12 @@ To build systems that help humans *reason better*, not just *decide faster*.
 - SAARC-focused AI Assistant  
 - South Asian Youth Digital Landscape Dashboard  
 
-📊 Analyzed **10,000+ data points across 8 South Asian countries**  
-🧠 Studied algorithmic polarization, youth participation & platform behavior
+Analyzed **10,000+ data points across 8 South Asian countries**  
+Studied algorithmic polarization, youth participation & platform behavior
 
 ---
 
-## 🧩 Selected Systems I’ve Built
+## Selected Systems I’ve Built
 
 - **P-FEICS v2.0** — Psycho-Forensic Evidence Integrity & Chain-of-Custody Platform  
   *(AES-256-GCM, hash-chained logs, watermarking, examiner authentication)*
@@ -103,7 +103,7 @@ To build systems that help humans *reason better*, not just *decide faster*.
 
 ---
 
-## 🛠 Tech Stack (Reality-Driven, Not Buzzword-Driven)
+## Tech Stack (Reality-Driven, Not Buzzword-Driven)
 
 **Languages**
 
@@ -127,9 +127,9 @@ Linux · Git · IoT · Node.js · MySQL · Obsidian
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-### 🧑‍💻 Languages
+### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -137,23 +137,23 @@ Linux · Git · IoT · Node.js · MySQL · Obsidian
 ![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
-### 🤖 AI / ML / Data
+### AI / ML / Data
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🗺️ GIS & Visualization
+### GIS & Visualization
 ![QGIS](https://img.shields.io/badge/QGIS-3.28-green?style=for-the-badge&logo=qgis)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%230C4B33.svg?style=for-the-badge)
 ![Manim](https://img.shields.io/badge/Manim-black?style=for-the-badge)
 
-### 🔐 Security & Systems
+### Security & Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cryptography](https://img.shields.io/badge/Cryptography-444?style=for-the-badge)
 ![IoT](https://img.shields.io/badge/IoT-%2300599C.svg?style=for-the-badge)
 
-### 🌐 Web & Tooling
+### Web & Tooling
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -164,7 +164,7 @@ Linux · Git · IoT · Node.js · MySQL · Obsidian
 
 ---
 
-## 📊 GitHub Activity Snapshot
+## GitHub Activity Snapshot
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
@@ -173,7 +173,7 @@ Linux · Git · IoT · Node.js · MySQL · Obsidian
 
 ---
 
-## 🧭 How I Think About Tech
+## How I Think About Tech
 
 > I don’t build apps just to ship features.  
 > I build **systems that explain themselves**,  
